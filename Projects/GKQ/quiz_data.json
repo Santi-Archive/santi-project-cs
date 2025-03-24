@@ -1,0 +1,32 @@
+[
+    {
+        "question": "What country has the most population?",
+        "category": "geography",
+        "choices": ["India", "Brazil", "China", "Russia"],
+        "answer": "China"
+    },
+    {
+        "question": "What do you call a triangle with no equal sides?",
+        "category": "math",
+        "choices": ["isosceles", "scalene", "right triangle", "pythagoras"],
+        "answer": "scalene"
+    },
+    {
+        "question": "In what year did World War II end?",
+        "category": "history",
+        "choices": ["1945", "1939", "1938", "1943"],
+        "answer": "1945"
+    },
+    {
+        "question": "What is the estimated percentage% of left handed people?",
+        "category": "genetics",
+        "choices": ["5%", "10%", "15%", "8%"],
+        "answer": "10%"
+    },
+    {
+        "question": "How many pounds(lbs) are there in a kilogram(kg)?",
+        "category": "math",
+        "choices": ["2.2lbs", "2lbs", "1.6lbs", "2.5lbs"],
+        "answer": "2.2lbs"
+    }
+]
